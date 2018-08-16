@@ -1,0 +1,117 @@
+.bj{
+    background-image: url("../img/nav_5.jpg");
+    height: 680px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    float: left;
+}
+.hz{
+
+    width: 100%;
+    height: 710px;
+    float: left;
+    margin-top: 150px;
+ }
+.tb{
+    border: 3px solid salmon;
+    width: 70px;
+    height: 70px;
+    margin: 2% 4%;
+    text-align: center;
+    float: left;
+}
+.hz1{
+    border: 2px solid salmon;
+    width: 65%;
+    height: 70%;
+    margin: 10% 0% 0% 18%;
+}
+.xhz1{
+    border: 1px solid salmon;
+    width: 95%;
+    height: 25%;
+    background-color: white;
+    margin: 35% 0% 0% 2.5%;
+    opacity: 0.6;
+}
+.hz2{
+    width: 100%;
+    height: 700px;
+    float: left;
+}
+.hz3{
+    border: 2px solid black;
+    margin: 2%  0% 1% 16.4% ;
+    padding: 1%;
+    width: 11%;
+    font-size: 25px;
+}
+.hz4{
+    border-right: 2px solid black;
+    margin: 2% 0% 0% 16.4%;
+    width: 11%;
+    height: 65%;
+    font-size: 20px;
+    float: left;
+}
+.hz4 ul{
+    margin: 0;
+    padding: 0;
+}
+.hz4 ul li{
+    list-style-type: none;
+}
+.hz4 ul li a{
+    text-decoration: none;
+    padding-left: 10px;
+    line-height: 3.2em;
+    color: black;
+}
+
+.hz6{
+    border: 1px solid black;
+    margin: 3.3% 0% 0% 5% ;
+    width: 51%;
+    height: 60%;
+    float: left;
+
+}
+.whz7{
+    width: 100%;
+    height: 670px;
+    float: left;
+}
+.hz7{
+    border: 1px solid black;
+    width: 67%;
+    height: 86%;
+    margin: 2% 0% 0% 16.4%;
+    float: left;
+}
+.hz8{
+    border-bottom: 1px solid black;
+    height: 15%;
+    width: 100%;
+}
+.hz8 ul{
+    margin: 0;
+    padding: 2% 0%;
+}
+.hz8 ul li{
+    list-style-type: none;
+    padding: 0px 10%;
+    float: left;
+}
+.hz8 ul li a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+.about_us{
+    width: 100%;
+    text-align: center;
+    padding-top: 2%;
+    background-color: #888888;
+    height: 100px;
+    float: left;
+}
