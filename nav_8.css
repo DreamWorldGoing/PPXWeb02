@@ -1,0 +1,36 @@
+.bj{
+    background-image: url("../img/nav_8%20about%20us.jpg");
+    height: 680px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    float: left;
+}
+.hz1{
+
+    width: 100%;
+    height: 600px;
+    margin: 5% 0%;
+    float: left;
+}
+.hz2{
+    border: 1px solid slateblue;
+    width: 67%;
+    height: 25%;
+    margin: 3% 16.4%;
+}
+.tb{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 2%  6.5% 0% 0%;
+    float: left;
+}
+.about_us{
+    width: 100%;
+    text-align: center;
+    padding-top: 2%;
+    margin-top: 2%;
+    background-color: #888888;
+    height: 100px;
+    float: left;
+}
